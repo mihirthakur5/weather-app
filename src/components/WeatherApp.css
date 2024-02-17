@@ -1,0 +1,8 @@
+.cardText{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header{
+    align-items: center;
+}
